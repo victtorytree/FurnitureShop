@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lora';
+    src: format('truetype') url('Lora-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-MediumItalic.ttf');
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-Bold.ttf');
+    src: format('trutype');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
