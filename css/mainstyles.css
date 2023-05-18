@@ -1,0 +1,13 @@
+@import "reset.css";
+@import "parts/";
+
+
+/*Fonts*/
+@import "../fonts/Gilroy/stylesheet.css";
+@import "../fonts/icons/style.css";
+
+body {
+	color: #3A3A3A;
+	font-family: Gilroy;
+	font-size: 16px;
+}
